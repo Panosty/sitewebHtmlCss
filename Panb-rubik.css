@@ -1,0 +1,140 @@
+body{
+    background: linear-gradient(80deg,black, lightgreen);
+    color:black;
+    line-height: 1.3em;
+    font-family: 'Times New Roman'
+}
+
+#contenant{
+    background-color: white;
+    width: 600px;
+    padding: 50px;
+    margin: auto;
+}
+
+
+
+h1{
+    color:red;
+    font-size: 2.8em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;   
+}
+
+h2{
+    color:green;
+    font-size: 1.6em;  
+}
+
+h3{
+    color:blue;
+    font-size: 1.3em;  
+}
+
+hr{
+    border-top: 3px blue solid;
+    border-bottom: 0px;
+}
+
+em{
+    font:oblique;
+}
+
+strong{
+    font:bold 1.1em;
+}
+
+dfn, abbr{
+    font:oblique;
+    color: green;
+
+}
+
+iframe{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+ul{
+    line-height: 1.5em;
+    list-style-type: square; 
+}
+
+ol{
+    line-height: 1.5em;
+}
+
+.intro{
+    font-weight: bolder;
+    font-size: 110%;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+[title]{
+    background: yellow;
+}
+
+nav{
+    color:white;
+    background: blue;
+    padding: 20px;
+    text-align: center;
+    border-bottom:2px solid; 
+}
+
+
+nav a:link {
+    color: white ;
+    text-decoration: none;
+}
+
+nav a:visited {
+    color:blueviolet;
+   }
+
+nav a:hover {
+color: red;
+} 
+
+footer  {
+    color:white;
+    background: blue;
+    padding: 20px;
+    text-align: center;
+    border-bottom:2px solid; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
